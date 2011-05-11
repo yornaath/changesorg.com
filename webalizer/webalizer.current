@@ -1,0 +1,173 @@
+# Webalizer V2.20-01 Incremental Data - 05/05/2011 00:06:45
+2011 5 5 0 6 45
+32 32 8 8 3 5 259333 8 8 0
+1 2 10 2 5
+0 0 0 0 0 0
+12 12 82104 2 2 2
+11 11 100909 4 4 4
+7 7 51681 1 1 1
+2 2 24639 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 24639 1
+1 1 0 1
+0 0 0 0
+7 7 51681 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+8 8 76270 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+7 7 51681 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+7 7 55062 2
+0
+0
+0
+32
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/javascript/lightbox/lightbox.js
+0 3 0 36603 0 0
+/
+0 8 0 172123 8 0
+/javascript/lightbox/lightbox.css
+0 4 0 2496 0 0
+/javascript/shaman/rokhan_min.js
+0 3 0 14208 0 0
+/javascript/tipsy/src/javascripts/jquery.tipsy.js
+0 3 0 13113 0 0
+/robots.txt
+0 3 0 150 0 0
+/style/changesorg_min.css
+0 4 0 18392 0 0
+/javascript/tipsy/src/stylesheets/tipsy.css
+0 4 0 2248 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-174-129-117-237.compute-1.amazonaws.com
+0 1 1 0 1 1304387266
+/
+msnbot-65-52-104-38.search.msn.com
+0 7 7 51681 1 1304352792
+/
+ep-web01.ephorus.com
+0 1 1 24589 1 1304416987
+/
+pool-108-0-177-241.lsanca.fios.verizon.net
+0 2 2 24639 1 1304466347
+/
+b3091002.crawl.yahoo.net
+0 5 5 30423 1 1304378792
+/
+msnbot-65-52-104-37.search.msn.com
+0 7 7 51681 1 1304478478
+/
+msnbot-65-52-110-45.search.msn.com
+0 2 2 24639 1 1304554005
+/
+msnbot-65-52-104-36.search.msn.com
+0 7 7 51681 1 1304417288
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+msnbot-65-52-110-45.search.msn.com
+0 2 2 24639 1 1304554005
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 11
+http://www.changesorg.com/
+1 3
+http://changesorg.com/
+1 18
+# End Of Table - referrers
+# -agents- 
+Gimmie60/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.11)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.A.B.C Safari/525.13
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;  SV1;  .NET CLR 1.1.4325;  .NET CLR 2.0.50727;  .NET CLR 3.0.30729;  .NET 
+0 21
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 5
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
